@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Debug files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.code-workspace
+
+# Build directories
+/build/
